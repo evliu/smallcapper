@@ -1,6 +1,7 @@
 {
   "name": "smallcapper",
   "version": "1.0.0",
+  "homepage": "https://github.com/evliu/smallcapper",
   "description": "Takes a string and smallcaps it.",
   "author": "Everest Liu <azn_logik@yahoo.com>",
   "license": "MIT",
